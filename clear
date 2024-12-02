@@ -1,0 +1,133 @@
+[33mcommit 0e823bebd43300811cb752f3d659c67b4e9ce34d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: 6f3f569 7bed9e1
+Author: CrioUser <crio-user@criodo.com>
+Date:   Wed Nov 27 14:53:14 2024 +0530
+
+    ME_QMONEY_V2_MODULE_CALCULATIONS
+
+[33mcommit 6f3f569874ab952db0e0df3943e83468169421b8[m
+Author: CrioUser <crio-user@criodo.com>
+Date:   Wed Sep 25 15:59:45 2024 +0530
+
+    ME_QMONEY_V2_MODULE_REST_API
+
+[33mcommit f0173e7c9cc899697a8e4fa851de4f14cfea7651[m
+Author: CrioUser <crio-user@criodo.com>
+Date:   Wed Sep 25 15:33:30 2024 +0530
+
+    ME_QMONEY_V2_MODULE_REST_API
+
+[33mcommit 226bee9cc2bd21168e039a6755a8cddd29a9a529[m
+Author: CrioUser <crio-user@criodo.com>
+Date:   Tue Sep 24 14:42:50 2024 +0530
+
+    ME_QMONEY_V2_MODULE_REST_API
+
+[33mcommit 4aa1995ef06c822fb19e0c73a79e4624b0387ee0[m
+Merge: 555a15e c87a54d
+Author: CrioUser <crio-user@criodo.com>
+Date:   Thu Sep 12 14:58:31 2024 +0530
+
+    Merge branch 'master' of gitlab.crio.do:ME_QMONEY_V2_STUBS/ME_QMONEY_V2_MODULE_REST_API_STUB
+
+[33mcommit 555a15e01e0ee48d9b719ecf2b747402193554dd[m
+Author: CrioUser <crio-user@criodo.com>
+Date:   Thu Sep 12 14:55:41 2024 +0530
+
+    merge changes
+
+[33mcommit e9adc1fc90cf55d9451dbe1914b7d19258ae413d[m
+Author: CrioUser <crio-user@criodo.com>
+Date:   Wed Jul 31 20:08:05 2024 +0530
+
+    ME_QMONEY_V2_MODULE_JSON_PARSING
+
+[33mcommit 9c6738009e867c0e25801b53bc1b093f2f3e393f[m[33m ([m[1;31mME_QMONEY_V2_MODULE_JSON_PARSING_STUB/master[m[33m)[m
+Author: Yakshit Jain <yakshit@criodo.com>
+Date:   Mon Jul 11 21:14:03 2022 +0550
+
+    updated changes - 2022-07-11 20:54:03
+
+[33mcommit 7bed9e1c0ec829b5c44cd54ec92787ba720b1c84[m[33m ([m[1;31mME_QMONEY_V2_MODULE_CALCULATIONS_STUB/master[m[33m)[m
+Author: Yakshit Jain <yakshit@criodo.com>
+Date:   Mon Jul 11 21:13:48 2022 +0550
+
+    updated changes - 2022-07-11 20:53:48
+
+[33mcommit bf5010f5fe6dffa1d48a5b3576f1bf5bc3b2a4bc[m
+Author: Anand <anand@dheemantech.com>
+Date:   Fri Oct 15 11:29:45 2021 +0550
+
+    updated changes - 2021-10-15 11:09:45
+
+[33mcommit d7432571723cb3816079a4465fc1362d544620f2[m
+Author: Anand <anand@dheemantech.com>
+Date:   Fri Oct 15 11:29:38 2021 +0550
+
+    updated changes - 2021-10-15 11:09:38
+
+[33mcommit c87a54d237c70b3735f29a1cfe27cd6e6986c2db[m[33m ([m[1;31mME_QMONEY_V2_MODULE_REST_API_STUB/master[m[33m)[m
+Author: Anand <anand@dheemantech.com>
+Date:   Fri Oct 15 11:29:34 2021 +0550
+
+    updated changes - 2021-10-15 11:09:34
+
+[33mcommit 61773fdb970ed57662a45452041336ac77f89997[m
+Author: Anand <anand@dheemantech.com>
+Date:   Fri Oct 8 22:28:08 2021 +0550
+
+    updated changes - 2021-10-08 22:08:08
+
+[33mcommit 8564d32433ca9f554a80da923cfcbf56e1cd6490[m
+Author: Anand <anand@dheemantech.com>
+Date:   Fri Oct 8 22:28:00 2021 +0550
+
+    updated changes - 2021-10-08 22:08:00
+
+[33mcommit 62e68e228b11db8f12a5fbb2a10bdd4e1824ca4c[m
+Author: Anand <anand@dheemantech.com>
+Date:   Fri Oct 8 22:27:56 2021 +0550
+
+    updated changes - 2021-10-08 22:07:56
+
+[33mcommit 7046c4fdacb9048d9be21b702ffe5c00cfe3484c[m
+Author: Crio.GitLab <admin@example.com>
+Date:   Tue Oct 5 11:46:04 2021 +0000
+
+    Update metadata.json
+
+[33mcommit 96309a8357013327efb55f5b6852f6f797465e4a[m
+Author: Anand <anand@dheemantech.com>
+Date:   Mon Oct 4 20:16:41 2021 +0550
+
+    updated changes - 2021-10-04 19:56:41
+
+[33mcommit a4e382eceb1dfca2badfc08c691a7ab6dc6fe68b[m
+Author: Crio.GitLab <admin@example.com>
+Date:   Mon Oct 4 14:23:20 2021 +0000
+
+    Add README.md
+
+[33mcommit 424d773d9f7b74b46ff6d2f66647da94f6a7c50b[m
+Author: Anand <anand@dheemantech.com>
+Date:   Mon Oct 4 18:53:54 2021 +0550
+
+    updated changes - 2021-10-04 18:33:54
+
+[33mcommit 89b016b4d7d669e5e64e6875bb33cf06b8aa6e50[m
+Author: Crio.GitLab <admin@example.com>
+Date:   Mon Oct 4 13:00:28 2021 +0000
+
+    Add README.md
+
+[33mcommit ea2211de5d7b33a37616ce7980cd1f3ceed4f926[m
+Author: Anand <anand@dheemantech.com>
+Date:   Mon Oct 4 18:46:29 2021 +0550
+
+    updated changes - 2021-10-04 18:26:29
+
+[33mcommit 702169b86bfc559497057e354a6ca90aac723ac6[m
+Author: Crio.GitLab <admin@example.com>
+Date:   Mon Oct 4 12:53:06 2021 +0000
+
+    Add README.md
