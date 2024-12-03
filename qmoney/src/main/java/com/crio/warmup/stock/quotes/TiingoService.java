@@ -25,8 +25,6 @@ public class TiingoService implements StockQuotesService {
   }
 
 
-  // TODO: CRIO_TASK_MODULE_ADDITIONAL_REFACTOR
-  //  Implement getStockQuote method below that was also declared in the interface.
 
   @Override
   public List<Candle> getStockQuote(String symbol, LocalDate from, LocalDate to) throws JsonMappingException, JsonProcessingException{
@@ -67,17 +65,6 @@ public class TiingoService implements StockQuotesService {
     }
 
 
-  
 
-  // Note:
-  // 1. You can move the code from PortfolioManagerImpl#getStockQuote inside newly created method.
-  // 2. Run the tests using command below and make sure it passes.
-  //    ./gradlew test --tests TiingoServiceTest
-
-
-  //CHECKSTYLE:OFF
-
-  // TODO: CRIO_TASK_MODULE_ADDITIONAL_REFACTOR
-  //  Write a method to create appropriate url to call the Tiingo API.
 
 }
